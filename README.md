@@ -105,3 +105,7 @@
 </div>
 
 <br>
+
+<div align="center">
+   <h3>🤗 ¡Gracias por visitar! Siéntete libre de explorar mis repositorios y sígueme si estás interesado en mi trabajo.</h3>
+</div>
