@@ -96,3 +96,12 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0170.gif" height="1px" width="1920"/>
 
 <br><br><br>
+
+<div align="center">
+   <a href="https://github.com/roseewood">
+      <img src="https://img.shields.io/github/followers/roseewood?label=Follow&style=social" width="130" alt="GitHub followers">
+   </a>
+      <img src="https://komarev.com/ghpvc/?username=roseewood&color=blue" width="150" alt="Profile Views">
+</div>
+
+<br>
