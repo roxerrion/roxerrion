@@ -86,3 +86,9 @@
 </div>
 
 <br>
+
+
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/mdazfar2/mdazfar2/output/github-contribution-grid-snake-dark.svg" width="1050" alt="Snake animated contribution Graph" />
+</div>
