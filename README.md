@@ -27,3 +27,7 @@
 </div>
 
 <br>
+
+<div align="center" width="50%">
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roseewood&theme=dark&fire"/></p>
+</div>
